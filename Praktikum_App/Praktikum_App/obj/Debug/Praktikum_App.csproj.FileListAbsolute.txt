@@ -1,0 +1,7 @@
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\bin\Debug\Praktikum_App.exe.config
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\bin\Debug\Praktikum_App.exe
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\bin\Debug\Praktikum_App.pdb
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\obj\Debug\Praktikum_App.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\obj\Debug\Praktikum_App.exe
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\obj\Debug\Praktikum_App.pdb
+C:\Users\Alexander Ehrenberge\Documents\GitHub\algodat_praktikum\Praktikum_App\Praktikum_App\obj\Debug\Praktikum_App.csprojResolveAssemblyReference.cache
